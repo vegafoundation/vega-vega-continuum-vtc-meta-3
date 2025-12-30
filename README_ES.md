@@ -1,4 +1,4 @@
-# VEGA CONTINUUM VTC META
+# VEGA Continuum VTC Meta
 
 **A Conceptual Framework in the Resonance Data and QIRC Paradigm**
 
@@ -14,7 +14,7 @@ Year: 2025
 
 ## Abstract
 
-VEGA CONTINUUM VTC META is a conceptual framework that models meaning as a resonant state 
+VEGA Continuum VTC Meta is a conceptual framework that models meaning as a resonant state 
 with temporal coherence. It is part of the Vega Continuum research framework.
 
 ---
